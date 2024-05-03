@@ -6,6 +6,7 @@
 - Swift
 - UIKit
 - Protocols
+- Constraints
 
 
 ### App Screenshots
